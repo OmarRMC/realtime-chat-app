@@ -185,3 +185,6 @@ Este proyecto está bajo la Licencia MIT.
 - **Pusher no funciona:** Asegúrate de tener las claves correctas de Pusher en tu archivo `.env` y que tu aplicación esté conectada al cluster adecuado de Pusher.
 - **Problemas con Redis:** Asegúrate de que Redis esté funcionando y correctamente configurado en tu archivo `.env`.
 - **El servidor Echo no arranca:** Verifica que todas las dependencias necesarias para Laravel Echo Server estén instaladas y revisa tus configuraciones en el archivo `.env`.
+
+# Imagenes de la web 
+![Imagen del los chats ](Chat%20En%20tiempo%20Real%20.jpg)
